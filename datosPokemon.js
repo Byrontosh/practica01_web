@@ -39,15 +39,6 @@ const pintarPokemon = (data, id) =>
   item.getElementsByTagName("p")[0].innerHTML = data.name;
 
 
-  // let pokeUno = ''
-
-  //   for(let i=0; i<data.abilities.length;i++)
-  //   {
-  //     pokeUno += `<li>${data.abilities[i].ability.name}</li>`
-  //   }
-  //   console.log(pokeUno);
-  //   item.getElementsByTagName('ol')[0].innerHTML = pokeUno
-
 }
 
 
