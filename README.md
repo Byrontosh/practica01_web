@@ -1,2 +1,3 @@
 # practica01_web
-![image](https://github.com/user-attachments/assets/b351d688-8a47-45a3-880e-8f4f90878f62)
+![image](https://github.com/user-attachments/assets/7f55dbc8-eb77-4106-b653-4f42a2d4ad9c)
+
