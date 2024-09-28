@@ -1,3 +1,2 @@
 # practica01_web
-[![api-pokemon](https://user-images.githubusercontent.com/26908663/236005347-e5fd1075-cff0-445f-b035-4d81ce782316.png)
-](https://consumoapiweb.netlify.app/)
+![image](https://github.com/user-attachments/assets/b351d688-8a47-45a3-880e-8f4f90878f62)
